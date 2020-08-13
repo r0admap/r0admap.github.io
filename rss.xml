@@ -10,7 +10,7 @@
         <title>Since 2020</title>
         <link>https://example.com/</link>
         <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
-        <generator>Hugo 0.73.0 https://gohugo.io/</generator>
+        <generator>Hugo 0.74.3 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
         
@@ -23,10 +23,34 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Thu, 13 Aug 2020 09:11:35 &#43;0800</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2020 10:10:38 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
         
+        
+            <item>
+                <title>Test</title>
+                <link>https://example.com/posts/test/</link>
+                <guid isPermaLink="true">https://example.com/posts/test/</guid>
+                <pubDate>Thu, 13 Aug 2020 09:41:15 &#43;0800</pubDate>
+                
+                    <author>null@gmail.com (NULL)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>Hello World</title>
