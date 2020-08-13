@@ -23,10 +23,35 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Thu, 13 Aug 2020 09:11:35 &#43;0800</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2020 10:55:20 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
         
+        
+            <item>
+                <title>Test</title>
+                <link>https://example.com/posts/test/</link>
+                <guid isPermaLink="true">https://example.com/posts/test/</guid>
+                <pubDate>Thu, 13 Aug 2020 09:41:15 &#43;0800</pubDate>
+                
+                    <author>null@gmail.com (NULL)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;中文字体&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>Hello World</title>
