@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">杂碎</title>
     <subtitle type="html">Null now.</subtitle>
-    <updated>2020-08-14T14:28:55&#43;08:00</updated>
+    <updated>2020-08-14T14:49:14&#43;08:00</updated>
     <id>https://r0admap.github.io/</id>
     <link rel="alternate" type="text/html" href="https://r0admap.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://r0admap.github.io/atom.xml" />
@@ -54,19 +54,19 @@
                             
                             
                             
-                                <category scheme="https://r0admap.github.io/tags/" term="安装" label="安装" />
+                                <category scheme="https://r0admap.github.io/tags/%E5%AE%89%E8%A3%85/" term="安装" label="安装" />
                             
                         
                             
                             
                             
-                                <category scheme="https://r0admap.github.io/tags/" term="installation" label="installation" />
+                                <category scheme="https://r0admap.github.io/tags/installation/" term="installation" label="installation" />
                             
                         
                             
                             
                             
-                                <category scheme="https://r0admap.github.io/tags/" term="hugo" label="hugo" />
+                                <category scheme="https://r0admap.github.io/tags/hugo/" term="hugo" label="hugo" />
                             
                         
                     
@@ -78,7 +78,7 @@
             <title type="text">Test3</title>
             <link rel="alternate" type="text/html" href="https://r0admap.github.io/frag/test3/" />
             <id>https://r0admap.github.io/frag/test3/</id>
-            <updated>2020-08-14T11:10:27&#43;08:00</updated>
+            <updated>2020-08-14T14:48:30&#43;08:00</updated>
             <published>2020-08-14T10:52:30&#43;08:00</published>
             <author>
                     <name>NULL</name>
@@ -106,6 +106,14 @@
             
             
                 
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://r0admap.github.io/tags/%E5%AE%89%E8%A3%85/" term="安装" label="安装" />
+                            
+                        
                     
                 
             

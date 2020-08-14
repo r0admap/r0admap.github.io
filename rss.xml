@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Fri, 14 Aug 2020 14:28:55 &#43;0800</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2020 14:49:14 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://r0admap.github.io/rss.xml" />
         
@@ -63,19 +63,19 @@
                                 
                                 
                                 
-                                    <category domain="https://r0admap.github.io/tags/">安装</category>
+                                    <category domain="https://r0admap.github.io/tags/%E5%AE%89%E8%A3%85/">安装</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://r0admap.github.io/tags/">installation</category>
+                                    <category domain="https://r0admap.github.io/tags/installation/">installation</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://r0admap.github.io/tags/">hugo</category>
+                                    <category domain="https://r0admap.github.io/tags/hugo/">hugo</category>
                                 
                             
                         
@@ -112,6 +112,14 @@
                 
                 
                     
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://r0admap.github.io/tags/%E5%AE%89%E8%A3%85/">安装</category>
+                                
+                            
                         
                     
                 
