@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://r0admap.github.io/tags/all/</loc>
+    <lastmod>2020-08-14T21:03:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://r0admap.github.io/frag/</loc>
+    <lastmod>2020-08-14T21:03:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://r0admap.github.io/frag/ranger-%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C/</loc>
+    <lastmod>2020-08-14T21:03:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://r0admap.github.io/tags/</loc>
+    <lastmod>2020-08-14T21:03:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://r0admap.github.io/</loc>
+    <lastmod>2020-08-14T21:03:42+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://r0admap.github.io/tags/hugo/</loc>
     <lastmod>2020-08-14T12:33:58+08:00</lastmod>
   </url>
@@ -18,11 +43,6 @@
   </url>
   
   <url>
-    <loc>https://r0admap.github.io/tags/</loc>
-    <lastmod>2020-08-14T15:13:50+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://r0admap.github.io/tags/%E5%AE%89%E8%A3%85/</loc>
     <lastmod>2020-08-14T15:13:50+08:00</lastmod>
   </url>
@@ -33,18 +53,8 @@
   </url>
   
   <url>
-    <loc>https://r0admap.github.io/</loc>
-    <lastmod>2020-08-14T15:13:50+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://r0admap.github.io/about/</loc>
     <lastmod>2020-08-14T13:49:12+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://r0admap.github.io/frag/</loc>
-    <lastmod>2020-08-14T15:13:50+08:00</lastmod>
   </url>
   
   <url>
@@ -54,7 +64,7 @@
   
   <url>
     <loc>https://r0admap.github.io/posts/</loc>
-    <lastmod>2020-08-14T08:32:14+08:00</lastmod>
+    <lastmod>2020-08-14T21:00:17+08:00</lastmod>
   </url>
   
   <url>
@@ -69,7 +79,7 @@
   
   <url>
     <loc>https://r0admap.github.io/posts/hello-world/</loc>
-    <lastmod>2020-08-13T08:13:48+08:00</lastmod>
+    <lastmod>2020-08-14T21:00:17+08:00</lastmod>
   </url>
   
 </urlset>
