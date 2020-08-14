@@ -7,9 +7,9 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Since 2020</title>
-        <link>https://example.com/</link>
-        <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
+        <title>杂碎</title>
+        <link>https://r0admap.github.io/</link>
+        <description>Null now.</description>
         <generator>Hugo 0.73.0 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
@@ -23,41 +23,71 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Thu, 13 Aug 2020 13:19:06 &#43;0800</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2020 13:49:34 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://r0admap.github.io/rss.xml" />
         
         
             <item>
-                <title>Test</title>
-                <link>https://example.com/posts/test/</link>
-                <guid isPermaLink="true">https://example.com/posts/test/</guid>
-                <pubDate>Thu, 13 Aug 2020 09:41:15 &#43;0800</pubDate>
+                <title>安装hugo</title>
+                <link>https://r0admap.github.io/misc/%E5%AE%89%E8%A3%85hugo/</link>
+                <guid isPermaLink="true">https://r0admap.github.io/misc/%E5%AE%89%E8%A3%85hugo/</guid>
+                <pubDate>Fri, 14 Aug 2020 12:31:58 &#43;0800</pubDate>
                 
                     <author>null@gmail.com (NULL)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
-                    <description>&lt;p&gt;中文字体&lt;/p&gt;
+                    <description>&lt;p&gt;install hugo 教程&lt;/p&gt;
 </description>
                 
                 
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://r0admap.github.io/misc/">Misc</category>
+                            
+                        
+                    
                 
                 
                 
                     
                         
-                    
+                            
+                                
+                                
+                                
+                                    <category domain="https://r0admap.github.io/tags/">安装</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://r0admap.github.io/tags/">installation</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://r0admap.github.io/tags/">hugo</category>
+                                
+                            
                         
                     
                 
             </item>
         
             <item>
-                <title>Hello World</title>
-                <link>https://example.com/posts/hello-world/</link>
-                <guid isPermaLink="true">https://example.com/posts/hello-world/</guid>
-                <pubDate>Wed, 12 Aug 2020 11:37:35 &#43;0800</pubDate>
+                <title>Test3</title>
+                <link>https://r0admap.github.io/frag/test3/</link>
+                <guid isPermaLink="true">https://r0admap.github.io/frag/test3/</guid>
+                <pubDate>Fri, 14 Aug 2020 10:52:30 &#43;0800</pubDate>
                 
                     <author>null@gmail.com (NULL)</author>
                 
@@ -67,10 +97,20 @@
                 
                 
                 
-                
-                
+                    
+                    
                     
                         
+                        
+                        
+                            
+                                <category domain="https://r0admap.github.io/frag/">Frag</category>
+                            
+                        
+                    
+                
+                
+                
                     
                         
                     
